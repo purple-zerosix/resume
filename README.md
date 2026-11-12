@@ -1,6 +1,6 @@
 # Violet Werle
 
-![green cat thing](\resume\aliencat.jpg "green cat thing")
+![green cat thing](/resume/aliencat.jpg "green cat thing")
 
 ## Education
 
@@ -9,3 +9,8 @@
 >[Everett Community College](https://www.everettcc.edu/)
 
 >[Western Washington University](https://www.wwu.edu/)
+
+## Research Interests
+
+> Abalone restoration
+> Water quality monitoring in cleanup sites for heavy metals
