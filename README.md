@@ -1,6 +1,6 @@
 # Violet Werle
 
-![green cat thing](/resume/aliencat.jpg "green cat thing")
+![green cat thing](/aliencat.jpg "green cat thing")
 
 ## Education
 
@@ -13,4 +13,5 @@
 ## Research Interests
 
 > Abalone restoration
+> 
 > Water quality monitoring in cleanup sites for heavy metals
